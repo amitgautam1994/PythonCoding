@@ -18,5 +18,6 @@ emp1 = Employee("Ravi", 2300 , "Programmer")
 emp2 = Employee("Rohan", 4300, "Analyst")
 
 emp1.changeleaves(5)
+print(emp.printdetails())
 
 print(emp1.no_of_leaves)
