@@ -7,11 +7,11 @@
 # #         li.append(i)
 #
 # print(li)
+def DivByThree()
+  dict1 = {i:f"Item {i}" for i in range(10)}
 
-dict1 = {i:f"Item {i}" for i in range(10)}
-
-dict2 = {value:key for key,value in dict1.items()}
+  dict2 = {value:key for key,value in dict1.items()}
 
 
-print(dict1)
-print(dict2)
+  print(dict1)
+  print(dict2)
