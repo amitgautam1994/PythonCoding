@@ -1,3 +1,3 @@
-string = input("Enter String : ")
-
-print(string.swapcase())
+def changeCase(string):
+  
+  return string.swapcase()
